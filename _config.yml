@@ -11,4 +11,4 @@ github_username:  ymhuang
 markdown: kramdown
 permalink: pretty
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
