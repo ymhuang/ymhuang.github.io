@@ -10,3 +10,4 @@ github_username:  ymhuang
 # Build settings
 markdown: kramdown
 permalink: pretty
+theme: jekyll-theme-midnight
