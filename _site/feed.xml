@@ -5,9 +5,23 @@
     <description>Yao-Min Huang&#39;s blog.</description>
     <link>http://ymhuang.github.io/</link>
     <atom:link href="http://ymhuang.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 11 May 2016 04:26:25 +0000</pubDate>
-    <lastBuildDate>Wed, 11 May 2016 04:26:25 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Jun 2017 04:39:38 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Jun 2017 04:39:38 +0000</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>test</title>
+        <description>&lt;p&gt;Just want to see how to change jekyll markdown.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 28 May 2017 22:38:00 +0000</pubDate>
+        <link>http://ymhuang.github.io/test/2017/05/28/test/</link>
+        <guid isPermaLink="true">http://ymhuang.github.io/test/2017/05/28/test/</guid>
+        
+        
+        <category>test</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
